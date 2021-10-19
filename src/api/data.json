@@ -1,0 +1,79 @@
+{
+    "data": 
+    [
+        
+        {
+            "title": "Model S",
+            "description": "Order Online for Touchless Delivery",
+            "description2": "",
+            "leftButton": "CUSTOM ORDER",
+            "rigthButton": "EXISTING INVENTORY",
+            "backgroundImage": "url('/images/model-s.jpg')",
+            "section": "model-s"
+        },
+        
+
+        
+        {
+            "title": "Model Y",
+            "description": "Order Online for Touchless Delivery",
+            "description2": "",
+            "leftButton": "CUSTOM ORDER",
+            "rigthButton": "EXISTING INVENTORY",
+            "backgroundImage": "url('/images/model-y.jpg')",
+            "section": "model-y"
+        },
+
+        {
+            "title": "Model 3",
+            "description": "Order Online for Touchless Delivery",
+            "description2": "",
+            "leftButton": "CUSTOM ORDER",
+            "rigthButton": "EXISTING INVENTORY",
+            "backgroundImage": "url('/images/model-3.jpg')",
+            "section": "model-3"
+        },
+        
+        {
+            "title": "Model X",
+            "description": "Order Online for Touchless Delivery",
+            "description2": "",
+            "leftButton": "CUSTOM ORDER",
+            "rigthButton": "EXISTING INVENTORY",
+            "backgroundImage": "url('/images/model-x.jpg')",
+            "section": "model-x"
+        },
+        
+        {
+            "title": "Solar Panels",
+            "description": "Lowest Cost Solar Panels in America",
+            "description2": "",
+            "leftButton": "ORDER NOW",
+            "rigthButton": "LEAN MORE",
+            "backgroundImage": "url('/images/solar-panel.jpg')",
+            "section": "solar-panels"
+        },
+        
+        {
+            "title": "Solar Roof",
+            "description": "Produce Clean Energy From Your Roof",
+            "description2": "",
+            "leftButton": "ORDER NOW",
+            "rigthButton": "LEARN",
+            "backgroundImage": "url('images/solar-roof.jpg')",
+            "section": "solar-roof"
+        },
+        {
+            "title": "Accessories",
+            "description": "",
+            "description2": "",
+            "leftButton": "SHPOP NOW",
+          
+            "backgroundImage": "url('images/accessories.jpg')",
+            "section": "accessories"
+        }
+    
+    ]
+}
+
+
