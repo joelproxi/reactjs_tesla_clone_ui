@@ -1,6 +1,6 @@
-# Le clone de la palteforme TESLA
+# Le clone de la plateforme TESLA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Cliquez ce lien [Tesla](https://www.tesla.com/)  pour vous rendre sur le site officiel de Tesla .
 
 ## Available Scripts
 
